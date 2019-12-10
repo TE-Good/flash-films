@@ -14,7 +14,6 @@
 This was a paired project that was done during a React hackerthon (Reactathon), where we had to use a third party RESTful API and incorperate it into a web application.
 
 Flash Films is a website which uses an API called TheMovieDB (https://www.themoviedb.org/) and has been built to display films based upon either/both genre and actor selection, and will give a few details on particular films including synposis, runtime, release date, and similar films.
-*frontpage*
 
 ## Instructions
 1. Input the genre and actor you are interested in watching.
@@ -28,7 +27,7 @@ Flash Films is a website which uses an API called TheMovieDB (https://www.themov
 *index page?*
 
 ## Process
-This was a group project with 2 developers working together, @Lydia Dylrimple and I. The whole project was pair programmed. We both took turns in being the navigater and the driver; utilising this method, we were able to learn from each other and collaborate easily. As a group, we formulated a timetable which we continued to revised throughout the project. This allowed us to focus on priorities that directly impacted our MVP and the features that were required for it to function.
+This was a group project with 2 developers working together, [@Lydia Dalrymple](https://github.com/ldalrymple1) and I. The whole project was pair programmed. We both took turns in being the navigater and the driver; utilising this method, we were able to learn from each other and collaborate easily. As a group, we formulated a timetable which we continued to revised throughout the project. This allowed us to focus on priorities that directly impacted our MVP and the features that were required for it to function.
 
 The first part of our Reactathon was to decide on our website and what API we were going to use. Once we had decided on what we were going to create, we looked into the documentation. We had to architect how exactly the searchs were going to work. This included having to format the actor name by making an actor search call to the API to give us their database ID, and having to get the selected genre ID by making a categories call to the API and filtering it out based upon the users selection.
 
